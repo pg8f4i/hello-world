@@ -1,2 +1,6 @@
 # hello-world
-My first repository.
+
+Hello Puny Humans!!!
+
+My name is The Incredible Hulk and I love to SMASH everything.
+
